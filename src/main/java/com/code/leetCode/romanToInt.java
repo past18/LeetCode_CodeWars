@@ -1,4 +1,4 @@
-package com.code.codeWars;
+package com.code.leetCode;
 
 public class romanToInt {
     public static int romanToInt(String s) {
